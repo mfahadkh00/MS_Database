@@ -2,3 +2,5 @@
 Database implemented through BST. Can be used to view Family Certificate, Form-B and Birth Certificate, update and add records.
 
 Created as a coursework project of CS-218(Data Structures)
+
+![Screenshot](Screenshot 2021-01-06 151814.png)
