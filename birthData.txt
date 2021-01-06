@@ -1,0 +1,7 @@
+idNo,birthCity,birthPronvince,birthCountry
+74150,Abu Dhabi,AD,UAE
+74166,Natales,XII,France
+74186,Falun,W,Gambia
+74228,Duque de Caxias,Rio de Janeiro,Italy
+74250,Lidingo,AB,Senegal
+74254,Hamburg,Hamburg,Germany
